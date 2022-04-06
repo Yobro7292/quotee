@@ -57,7 +57,7 @@ const Quote = () => {
                    
                 </div>
                 <div className="flex justify-center items-center mt-16 absolute bottom-0 mb-5">
-                    <button className="rounded-full px-3 w-auto bg-blue-700 font-bold text-white py-1 hover:bg-blue-500 shadow-xl" onClick={handlegetQuote} >Get Another Quote</button>
+                    <button className="rounded-full px-3 w-auto bg-blue-700 font-bold text-white py-1 hover:bg-blue-500 shadow-xl" onClick={handlegetQuote} >Get Another Quote </button>
                 </div>
             </div>
 
