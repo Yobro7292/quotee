@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.circle {
+  position: fixed;
+  transform: translate(-50%, -50%);
+  top: 0;
+  left: 0;
+  opacity: 0.6;
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+.circle.sm {
+  width: 45px;
+  height: 45px;
+  background-image: url('./assets/cur.svg');
+  background-size: contain;
+}
+
+.circle.md {
+  width: 60px;
+  height: 60px;
+}
+
+.circle.lg {
+  width: 90px;
+  height: 90px;
+}
