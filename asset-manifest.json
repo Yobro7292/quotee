@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quotee/static/css/main.482f919c.css",
+    "main.js": "/quotee/static/js/main.af0b6e59.js",
+    "static/js/787.587e7746.chunk.js": "/quotee/static/js/787.587e7746.chunk.js",
+    "static/media/cur.svg": "/quotee/static/media/cur.a48ed190f2d1d2bae061.svg",
+    "index.html": "/quotee/index.html",
+    "main.482f919c.css.map": "/quotee/static/css/main.482f919c.css.map",
+    "main.af0b6e59.js.map": "/quotee/static/js/main.af0b6e59.js.map",
+    "787.587e7746.chunk.js.map": "/quotee/static/js/787.587e7746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.482f919c.css",
+    "static/js/main.af0b6e59.js"
+  ]
+}
